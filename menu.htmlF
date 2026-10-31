@@ -27,7 +27,6 @@
           <li class="nav-item"><a class="nav-link active" aria-current="page" href="menu.html">Menu</a></li>
           <li class="nav-item"><a class="nav-link" href="pesan.html">Pesan</a></li>
           <li class="nav-item"><a class="nav-link" href="kontak.html">Kontak</a></li>
-          <li class="nav-item"><a class="nav-link" href="admin/dashboard.html">Admin</a></li>
         </ul>
       </div>
     </div>
